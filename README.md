@@ -1,5 +1,10 @@
-# 나는 누구인가
+<h3 align="center">A passionate student from Korea</h3>
 
-![재롱이](https://i.namu.wiki/i/sLpl_9SaPt63LS9uKn7ptjw1GtopAOeL-fVSbFHsfwm2ZKwywO-4rd91q_MPds0-pXHkGqRyAj6u366J2-SygA.webp)
+- 🌱 I’m currently learning **python, SSAFY**
 
-![홍차](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyAG98wGayXqoKzj9VmdRWpldgm-0DxlwjQ&s)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
