@@ -1,10 +1,25 @@
-<h3 align="center">A passionate student from Korea</h3>
+<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
 
-- 🌱 I’m currently learning **python, SSAFY**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+- 💻 I love solving problems with **Python** and **C**
+- 📚 Currently learning about **algorithms**, **system programming**, and **AI**
+- 🔭 Working on personal projects and open-source contributions
+- 🧩 Hobbies: Coding, reading tech blogs, and building mini tools
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💡 Languages:    Python, C
+⚙️ Tools:        Git, Linux, VS Code, Jupyter
+🧪 Interests:    AI, System Programming, CLI Tools
+
+
